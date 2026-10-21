@@ -1,0 +1,12 @@
+# Terraform local state
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Sensitive variable files
+terraform.tfvars
+*.tfvars
+
+# OS / Editor
+.vscode/
+.DS_Store
